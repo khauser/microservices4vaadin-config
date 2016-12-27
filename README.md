@@ -1,0 +1,1 @@
+Centralized configuration repository for https://github.com/khauser/microservices4vaadin

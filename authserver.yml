@@ -1,6 +1,6 @@
 logging:
   level:
-    microservices4vaadin: DEBUG
+    microservices4vaadin.authserver: DEBUG
     org.springframework.session: INFO
     org.springframework.security: INFO
     com.netflix.discovery: 'OFF'
